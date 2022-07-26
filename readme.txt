@@ -8,4 +8,3 @@ EA文件                                        hoverboard.eapx
 至于文件夹slprj和文件AC_DC_Machine.slxc是simulink运行后自动生成的临时文件
 
 
-作者：姜睿宇 10195101443
